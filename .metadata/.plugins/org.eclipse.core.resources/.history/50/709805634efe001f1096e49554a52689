@@ -1,0 +1,19 @@
+package in.basics;
+
+//Object : toString();
+class Car{
+	String carName = "nano";
+	
+	@Override
+	public String toString() {
+		return this.carName;
+	}
+	
+}
+public class test2 {
+	public static void main (String[]args) {
+		// ClassName ObjName = new ClassName();
+		Car c = new Car();
+		System.out.println(c);
+}
+}

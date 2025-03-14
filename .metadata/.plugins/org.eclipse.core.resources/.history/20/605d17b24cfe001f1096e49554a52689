@@ -1,0 +1,12 @@
+package in.basics;
+
+class Car{
+	
+}
+public class test2 {
+	public static void main (String[]args) {
+		// ClassName ObjName = new ClassName();
+		Car c = new Car();
+		System.out.println(c);
+}
+}

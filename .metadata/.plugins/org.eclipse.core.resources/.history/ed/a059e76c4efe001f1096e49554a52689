@@ -1,0 +1,29 @@
+package in.basics;
+
+import java.lang.reflect.Field;
+
+class Student{
+	int studentId;
+	String studentName;
+	
+	public void getStudentDetails() {
+		System.out.println("student data");
+	}
+}
+
+public class test3 {
+
+	public static void main(String[] args) {
+		Student s1 = new Student();
+		
+	Class c = s1.getClass();
+
+		System.out.println(c);
+		
+		Field[] fields = c.getFields();
+		for(Field field:fields) {
+			System.out.println(Field.getName());
+		}
+	}
+
+}

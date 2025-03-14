@@ -1,0 +1,15 @@
+package in.buildingblocks;
+
+public class test9 {
+	 int data=100;
+	public static void main(String[] args) {
+		test9 obj= new test9();
+		System.out.println(obj.data);
+		
+		obj.data=200;
+		test9 obj2= new test9();
+		System.out.println(obj.data);
+		System.out.println(obj2.data);
+	}
+
+}

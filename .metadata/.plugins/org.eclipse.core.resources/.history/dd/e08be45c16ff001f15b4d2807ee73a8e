@@ -1,0 +1,11 @@
+package in.buildingblocks;
+
+public class test4 {
+
+	public static void main(String[] args) {
+      int a = 100;
+      int b = 100;
+      System.out.println("a+b");
+	}
+
+}

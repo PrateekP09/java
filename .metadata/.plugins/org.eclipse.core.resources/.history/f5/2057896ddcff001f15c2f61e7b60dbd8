@@ -1,0 +1,19 @@
+package in.buildingblocks;
+
+class AImp1{
+	int data= 10;
+}
+public class test10 {
+	int data = 10;
+	private static test10 obj;
+
+	public void showdata() {
+	
+	}
+
+	public static void main (String[]args) {
+		test10.obj= new test10();
+		obj.data= 10;
+		System.out.println(obj.data);
+	}
+}

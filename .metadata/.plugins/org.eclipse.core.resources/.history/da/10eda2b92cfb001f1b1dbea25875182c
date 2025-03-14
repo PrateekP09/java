@@ -1,0 +1,10 @@
+package in.basics;
+
+public class Test {
+
+	public static void main(String[] args) {
+		System.out.println("Helllo Java");
+		System.out.println("Jalgaar Op");
+	}
+
+}
