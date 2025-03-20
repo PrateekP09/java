@@ -2,7 +2,7 @@ package in.buildingblocks;
 
 public class test3 {
 	public static void main(String[]args){
-		byte a= 100;//converting from data type to higher data type 
+		byte a= 100;//converting from lower data type to higher data type 
 		short b = a;
 		
 		System.out.println(a+" "+b);

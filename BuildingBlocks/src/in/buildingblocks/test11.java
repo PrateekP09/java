@@ -3,7 +3,7 @@ package in.buildingblocks;
 class product {
 	String ProductId = "A123";
 	String ProductName= "abc";
-	static String Category = "ex" ;
+	 static String Category = "ex" ;
 
 
 public void showdetails() {

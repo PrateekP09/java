@@ -1,7 +1,7 @@
 package in.buildingblocks;
 
 public class test4 {
-	int data = 100;
+	 int data = 100;
 
 	public static void main(String[] args) {
       test4 obj = new test4();
