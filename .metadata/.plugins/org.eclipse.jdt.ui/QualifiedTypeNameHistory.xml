@@ -2,4 +2,8 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
 </qualifiedTypeNameHistroy>

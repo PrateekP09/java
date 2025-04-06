@@ -15,6 +15,6 @@ public class test7 {
 		System.out.println("enter the number");
 		int number= sc.nextInt();
 		System.out.println(positivenegativeorzero(number));
-	}
+	}	
 
 }

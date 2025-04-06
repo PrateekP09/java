@@ -14,7 +14,7 @@ public class test4 {
       test4 obj2 = new test4();
       System.out.println(obj2.data);
       
-      obj.data = 200;
+      obj.data = 200;	
       System.out.println(obj.data);
       System.out.println(obj2.data);
 	}

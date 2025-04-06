@@ -12,8 +12,10 @@ public class test8 {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter 2 numbers");
 		int number= sc.nextInt();
+		int number2= sc.nextInt();
 		
-		System.out.println(greater(number, number));
+		
+		System.out.println(greater(number, number2));
 		
 	}
 

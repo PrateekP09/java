@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class test10 {
 
 		public static String celsius(int t) {
-			if(t>20) return "hot";
+			if(t>30) return "hot";
 			else if(t<20) return "cold";
-			else if(t<20 && t>30) return "warm";
+			else if(t>=20 && t<=30) return "warm";
 			return null;
 			
 			

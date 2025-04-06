@@ -15,5 +15,5 @@ public class test6 {
 		int number= sc.nextInt();
 		System.out.println(evenorodd(number));
 	}
-
+		
 }

@@ -6,7 +6,7 @@ public class test12 {
 		static int data2 = 500;// memory stored in class loading
 		
 		public void m1() {
-			System.out.println(data+""+test12.data2);//non static and static data can be accessed through non static method.
+			System.out.println(data+" "+test12.data2);//non static and static data can be accessed through non static method.
 			
 		}
 		

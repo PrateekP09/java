@@ -12,7 +12,7 @@ public class test4 {
 		return (n>0)?(n%2==0)?true:false:false;
 	}
 	public static void main(String[] args) {
-		System.out.print(ispositiveeven(2));
+		System.out.print(ispositiveeven(3));
 	}
 
 }

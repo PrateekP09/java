@@ -33,7 +33,7 @@ public class test31 {
 		public static void unaryoperators() {
 			int a=10;
 			int b=a++;
-			System.out.println(a+""+b);
+			System.out.println(a+" "+b);
 			
 			int x= -12;
 			System.out.println(~x);
