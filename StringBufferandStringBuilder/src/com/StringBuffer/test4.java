@@ -18,7 +18,6 @@ public class test4 {
     public static void main(String[] args) {
         String str = "java";
         String temp = str;
-
         String reversedStr = reverse(str);
         if (reversedStr.equals(temp))
             System.out.println("palindrome");

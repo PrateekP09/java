@@ -8,7 +8,7 @@ public class test26 {
 			return 1;
 		}
 				
-			return 3 * power(a,b-1);// base*power(base,exp-1)
+			return 3 * power(3,4-1);// base*power(base,exp-1)
 		}
 		
 	public static void main(String[] args) {

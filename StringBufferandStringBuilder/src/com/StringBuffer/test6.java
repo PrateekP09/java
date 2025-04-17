@@ -22,7 +22,7 @@ public class test6 {
 		}
 
 		public static void main(String[] args) {
-			String str = "java is a programmingfgjhgy language";
+			String str = "java is a programming language";
 
 			String longest = longestWord(str);
 
