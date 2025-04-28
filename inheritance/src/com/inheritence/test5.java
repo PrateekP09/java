@@ -1,4 +1,5 @@
-package inheritancecom.inheritence;
+package com.inheritence;
+
 
 
 class Base{

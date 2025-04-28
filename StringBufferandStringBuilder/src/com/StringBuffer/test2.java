@@ -8,7 +8,7 @@ public class test2 {
 		sb.append("code");
 		
 		//2.indexOf
-		System.out.println(sb.lastIndexOf("c"));
+		System.out.println(sb.indexOf("c"));
 		
 		//3.last indexOf
 		System.out.println(sb.lastIndexOf("c"));

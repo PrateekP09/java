@@ -1,4 +1,6 @@
-package inheritancecom.inheritence;
+package com.inheritence;
+
+
 
 // multilevel inheritance- single parent multiple child
 

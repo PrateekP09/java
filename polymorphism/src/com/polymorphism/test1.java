@@ -19,8 +19,8 @@ public class test1 {
      Dimension.area(12.5);
      Dimension.area(12.34f);
      
-     String[]arr= {1,2,3,4};
-     main(arr);
+    // String[]arr= {rithwik};
+     //main(arr);
      
 	}
 	public static void main(Integer msg) {// we can overload main method but jvm doesnt call

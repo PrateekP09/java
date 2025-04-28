@@ -1,4 +1,5 @@
-package inheritancecom.inheritence;
+package com.inheritence;
+
 
 
 class X{
@@ -8,7 +9,7 @@ class X{
 }
 
 class Y extends X{// before printing the child class the parent class is executed 
-		Y(){
+		Y(int a){
 			//super();
 			//this();
 			System.out.println("calling from y");
@@ -18,7 +19,8 @@ class Y extends X{// before printing the child class the parent class is execute
 public class test4 {
 
 	public static void main(String[] args) {
-			Y obj= new Y();
+			Y obj= new Y(0);
+			
 			
 	}
 

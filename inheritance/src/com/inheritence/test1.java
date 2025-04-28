@@ -1,8 +1,8 @@
-package inheritancecom.inheritence;
+package com.inheritence;
 
 
 
-	class parent{
+class parent{
 		int data=200;
 		public int data2=200;
 		protected int data3=300;

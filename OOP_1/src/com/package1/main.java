@@ -7,6 +7,7 @@ public class main {
   //t.getData();
 		product p = new product();
   System.out.println(p.productId);
+  System.out.println(p.productname2);
   
 	}
   

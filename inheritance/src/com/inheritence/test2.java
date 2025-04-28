@@ -1,4 +1,6 @@
-package inheritancecom.inheritence;
+package com.inheritence;
+
+
 
 class A{
 	int data=100;
@@ -9,7 +11,7 @@ class B extends A{
 
 public class test2 {
 	public static void main(String[] args) {
-		A a = new A();
+		A a = new A ();
 		System.out.println(a.data);
 		
 		B b = new B();
