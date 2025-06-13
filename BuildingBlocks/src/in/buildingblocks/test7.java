@@ -9,9 +9,9 @@ public class test7 {
 		System.out.println("m2() called");
 	}
 	public static void main(String[] args) {
-		test7 obj = new test7();
-		obj.m1();// fncall or invoking the fn
-		test7.m2();
+		//test7 obj = new test7();
+		//obj.m1();// fncall or invoking the fn
+		//test7.m2();
 	}
 
 }
